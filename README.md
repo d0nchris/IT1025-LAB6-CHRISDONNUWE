@@ -48,5 +48,10 @@ How the client server model works with http is a user types a webpage on the dev
 is used to create documents/pagesw that can be displayed on the internet browsers by describing the structure and presentation of the data on the inernet.
 #### CSS Cascading style sheets 
 This is used to help developers to seperate content from layout and design of a websites. It describes the presentation of a wepage from clors, layout,fonts which helps are websites to display on different devices.
+
+### HTML  and XML
+ XML was designed to carry data with the focus on what data is. 
+ #### while
+ HTML was designed to display data with the focus on how the data looks.
  
 
