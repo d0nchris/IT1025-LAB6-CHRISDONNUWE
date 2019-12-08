@@ -54,4 +54,15 @@ This is used to help developers to seperate content from layout and design of a 
  #### while
  HTML was designed to display data with the focus on how the data looks.
  
+ 
+## Components of URL
+##### Scheme------http
+##### top level domain-----.edu
+##### Anchor------Specific location on a page
+##### parameters----results of search
+##### default page --------no file path provided
+##### domain-------- www.amazom.com 
+All components of the URL work together to help the users access the websites in that;from a scheme(http),domain name,file path,parameter and anchor a web users is able to search ansd access the url data on the internet. 
+
+ 
 
