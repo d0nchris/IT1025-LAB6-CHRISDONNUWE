@@ -42,4 +42,11 @@ How the client server model works with http is a user types a webpage on the dev
  This is the use of software anti-virus systems /intrusion detetion system IDC to help with protecting the devices from virus but they need acces to certain pattern which may expose user data if hacked.
  ### Risks in vulnearability
  ActiveX is a technology used by Microsoft internet exploree on the windows syatem. It allows applications to access and utilise data on the web broweser thus webpage can use ActiveX components on windows systems. this may cause more server vilnerabilities to the user if the components are not properly implemented .
+ 
+ ### HTML and CSS
+#### HTML Hypertext Markup langauge
+is used to create documents/pagesw that can be displayed on the internet browsers by describing the structure and presentation of the data on the inernet.
+#### CSS Cascading style sheets 
+This is used to help developers to seperate content from layout and design of a websites. It describes the presentation of a wepage from clors, layout,fonts which helps are websites to display on different devices.
+ 
 
